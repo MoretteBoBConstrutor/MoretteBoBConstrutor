@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  Developer focused on the <strong>.NET ecosystem</strong>, building backend systems, desktop applications and game-related tools, currently studying <strong>Systems Analysis and Development</strong>.
+  Developer focused on the <strong>.NET ecosystem</strong>, building backend systems, desktop applications and game-related tools, currently studying <strong>Software Development</strong>.
 </p>
 
 <p align="left">
@@ -31,27 +31,16 @@
 <h3 align="left">Projects</h3>
 
 <p align="left">
-  <strong>Kryden Rewards</strong> — automation system for DayZ servers.<br>
-  <strong>DayZ Hub</strong> — launcher and discovery platform for DayZ servers.<br>
-  <strong>Kryden Pulse</strong> — desktop resource monitoring tool.<br>
-  <strong>Kryden Zip</strong> — backup and compression utility.
+  <strong>Kryden Rewards</strong> — private automation platform for DayZ servers, integrating Discord, payments, APIs and in-game reward delivery.<br>
+  <strong>DayZ Hub</strong> — launcher and discovery ecosystem for DayZ servers, focused on reputation, visibility and mod validation.<br>
+  <strong>Kryden Pulse</strong> — desktop resource monitoring tool with dashboard and overlay concepts.<br>
+  <strong>Kryden Zip</strong> — desktop utility for structured backups, file compression and workflow organization.
 </p>
 
-<!-- 
-<h3 align="left">Stats</h3>
+<p align="left">
+  <sub>Most projects listed here are proprietary products or private commercial solutions under Kryden.</sub>
+</p>
 
-<div align="center">
-  <img 
-    height="155"
-    src="https://github-readme-stats.vercel.app/api?username=MoretteBoBConstrutor&show_icons=true&theme=transparent&hide_border=true&locale=pt-br"
-  />
-
-  <img 
-    height="155"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoretteBoBConstrutor&layout=compact&theme=transparent&hide_border=true&langs_count=6"
-  />
-</div>
- -->
 ---
 
 <h3 align="left">Contact</h3>
