@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  Developer in progress focused on <strong>C#</strong>, <strong>.NET</strong>, desktop applications, backend APIs and game-related tools.
+  Developer focused on the <strong>.NET ecosystem</strong>, building backend systems, desktop applications and game-related tools, currently studying <strong>Systems Analysis and Development</strong>.
 </p>
 
 <p align="left">
