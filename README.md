@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  Developer focused on the <strong>.NET ecosystem</strong>, building backend systems, desktop applications and game-related tools, currently studying <strong>Software Development</strong>.
+  Developer focused on the <strong>.NET ecosystem</strong>, building backend systems, desktop applications and game-related tools, currently studying <strong>Software Development</strong> through a Systems Analysis and Development degree.
 </p>
 
 <p align="left">
@@ -28,6 +28,14 @@
 
 ---
 
+<h3 align="left">Workflow</h3>
+
+<p align="left">
+  Using AI-assisted development for 3+ years as part of my workflow to support architecture planning, refactoring, debugging, documentation and continuous learning.
+</p>
+
+---
+
 <h3 align="left">Projects</h3>
 
 <p align="left">
@@ -39,6 +47,14 @@
 
 <p align="left">
   <sub>Most projects listed here are proprietary products or private commercial solutions under Kryden.</sub>
+</p>
+
+---
+
+<h3 align="left">Public Work</h3>
+
+<p align="left">
+  Public DayZ mods and experiments are available in my repositories, showcasing gameplay scripting, server-side logic and Enforce Script development.
 </p>
 
 ---
