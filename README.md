@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  Developer focused on the <strong>.NET ecosystem</strong>, building backend systems, desktop applications and game-related tools, currently studying <strong>Systems Analysis and Development</strong> with a focus on software development.
+  Learning and building with the <strong>.NET ecosystem</strong>, focused on backend APIs, desktop tools and game server systems, currently studying <strong>Systems Analysis and Development</strong> with a focus on software development.
 </p>
 
 <p align="left">
-  Founder of <a href="https://kryden.com.br/" target="_blank"><strong>Kryden</strong></a>. Building real projects around DayZ modding, automation systems, launchers, bots and developer tools.
+  Founder of <a href="https://kryden.com.br/" target="_blank"><strong>Kryden</strong></a>.     Building real projects around automation systems, launchers, bots, developer tools and game  server solutions.
 </p>
 
 ---
@@ -59,7 +59,7 @@
 </p>
 
 <p align="left">
-  <sub>Most projects listed here are proprietary products or private commercial solutions under Kryden.</sub>
+  <sub>Some projects are private or commercially developed under Kryden, including internal tools and client-specific solutions.</sub>
 </p>
 
 ---
