@@ -1,19 +1,23 @@
 <h1 align="left">Carlos Morette</h1>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/.NET%20Developer%20%E2%80%A2%20Backend%20%26%20APIs%20%E2%80%A2%20Desktop%20Tools-0A0A0A?style=for-the-badge&logo=dotnet&logoColor=FACC15" />
+  <img src="https://img.shields.io/badge/Desenvolvedor%20Backend%20.NET%20%E2%80%A2%20APIs%20%E2%80%A2%20Dados%20%E2%80%A2%20Infraestrutura-0A0A0A?style=for-the-badge&logo=dotnet&logoColor=FACC15" />
 </p>
 
 <p align="left">
-  Building with the <strong>.NET ecosystem</strong> — from WPF desktop apps to APIs, backend services and technical tools. Currently studying <strong>Systems Analysis and Development</strong> with a focus on software development.
+  <strong>Técnico de T.I. no Grupo Verona</strong>, e <strong>desenvolvedor backend .NET</strong> em projetos independentes. Escrevo código desde 2019.
 </p>
 
 <p align="left">
-  My path started in game modding and running game servers, where I learned hands-on to build things that actually have to work, with real users — and today I keep production systems online on my own infrastructure.
+  Não faço front-end de produto. O que eu entrego é o que roda atrás: <strong>API, dados, integração e o servidor que segura tudo</strong>.
 </p>
 
 <p align="left">
-  <a href="https://kryden.com.br/" target="_blank"><strong>Kryden</strong></a> is my personal brand: the place where I bring together my personal and freelance projects. Not an agency and not a company — just where my work lives.
+  Comecei em 2019 modando DayZ em Enforce Script — engine fechada, sem documentação, aprendendo a ler o código dos outros. Hoje mantenho sistemas em produção para clientes reais, em infraestrutura que eu mesmo administro.
+</p>
+
+<p align="left">
+  Curso <strong>Análise e Desenvolvimento de Sistemas</strong>. Uso desenvolvimento assistido por IA no dia a dia, para planejar arquitetura, refatorar e documentar.
 </p>
 
 ---
@@ -22,32 +26,51 @@
 
 ![C#](https://img.shields.io/badge/C%23-0A0A0A?style=for-the-badge&logo=dotnet&logoColor=FACC15)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-0A0A0A?style=for-the-badge&logo=dotnet&logoColor=FACC15)
+![EF Core](https://img.shields.io/badge/EF%20Core-0A0A0A?style=for-the-badge&logo=dotnet&logoColor=FACC15)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=FACC15)
+
 ![Blazor](https://img.shields.io/badge/Blazor-0A0A0A?style=for-the-badge&logo=blazor&logoColor=FACC15)
 ![WPF](https://img.shields.io/badge/WPF-0A0A0A?style=for-the-badge&logo=dotnet&logoColor=FACC15)
-
-![C++](https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge&logo=c%2B%2B&logoColor=FACC15)
-![C](https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c&logoColor=FACC15)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=FACC15)
 ![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=FACC15)
 ![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=FACC15)
 ![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=FACC15)
 
----
-
-<h3 align="left">▸ Workflow</h3>
-
 <p align="left">
-  Using AI-assisted development for 3+ years as part of my workflow to support architecture planning, refactoring, debugging, documentation and continuous learning.
+  Também trabalhei com
+  <img src="https://img.shields.io/badge/C-141414?style=flat-square&logo=c&logoColor=A1A1AA" />
+  <img src="https://img.shields.io/badge/C++-141414?style=flat-square&logo=c%2B%2B&logoColor=A1A1AA" />
 </p>
 
 ---
 
-<h3 align="left">▸ Contact</h3>
+<h3 align="left">▸ Produtos e trabalho para cliente</h3>
+
+<p align="left">
+  <a href="https://clyvo.kryden.com.br/" target="_blank"><strong>Clyvo</strong></a> — CRM enxuto para autônomos e micro-empresas, em produção. Blazor, PostgreSQL e cobrança por Mercado Pago.
+</p>
+
+<p align="left">
+  <a href="https://www.pdfclick.net/" target="_blank"><strong>PDFClick</strong></a> — compressão de PDF pelo menu do Explorer, sem nada sair do computador. Handler nativo em C++ e motor em .NET.
+</p>
+
+<p align="left">
+  <strong>Elleve</strong> — sistema interno de controle de aluguel, feito para cliente. Blazor, PostgreSQL e contrato gerado em docx.
+</p>
+
+<p align="left">
+  Os projetos open source estão fixados aqui embaixo. Tudo que eu construí está em <a href="https://kryden.com.br/" target="_blank"><strong>kryden.com.br</strong></a>.
+</p>
+
+---
+
+<h3 align="left">▸ Contato</h3>
 
 <div align="left">
   <a href="mailto:contato@kryden.com.br" target="_blank">
     <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FACC15" />
+  </a>
+  <a href="https://www.linkedin.com/in/c-morette" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FACC15" />
   </a>
   <a href="http://discordapp.com/users/271828552314388481" target="_blank">
     <img src="https://img.shields.io/badge/Discord-0A0A0A?style=for-the-badge&logo=discord&logoColor=FACC15" />
@@ -56,6 +79,6 @@
     <img src="https://img.shields.io/badge/YouTube-0A0A0A?style=for-the-badge&logo=youtube&logoColor=FACC15" />
   </a>
   <a href="https://kryden.com.br/" target="_blank">
-    <img src="https://img.shields.io/badge/Kryden-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=FACC15" />
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=FACC15" />
   </a>
 </div>
