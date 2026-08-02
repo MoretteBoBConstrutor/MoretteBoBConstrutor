@@ -9,10 +9,6 @@
 </p>
 
 <p align="left">
-  Não faço front-end de produto. O que eu entrego é o que roda atrás: <strong>API, dados, integração e o servidor que segura tudo</strong>.
-</p>
-
-<p align="left">
   Comecei em 2019 modando DayZ em Enforce Script — engine fechada, sem documentação, aprendendo a ler o código dos outros. Hoje mantenho sistemas em produção para clientes reais, em infraestrutura que eu mesmo administro.
 </p>
 
