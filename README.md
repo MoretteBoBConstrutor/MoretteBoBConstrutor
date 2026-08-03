@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  Comecei em 2019 modando DayZ em Enforce Script — engine fechada, sem documentação, aprendendo a ler o código dos outros. Hoje mantenho sistemas em produção para clientes reais, em infraestrutura que eu mesmo administro.
+  Comecei em 2019 modando DayZ em Enforce Script, na engine da Bohemia — aprendi sozinho, testando e estudando. Hoje mantenho sistemas em produção para clientes reais, em infraestrutura que eu mesmo administro.
 </p>
 
 <p align="left">
@@ -29,7 +29,6 @@
 ![WPF](https://img.shields.io/badge/WPF-0A0A0A?style=for-the-badge&logo=dotnet&logoColor=FACC15)
 ![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=FACC15)
 ![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=FACC15)
-![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=FACC15)
 
 <p align="left">
   Também trabalhei com
@@ -37,24 +36,8 @@
   <img src="https://img.shields.io/badge/C++-141414?style=flat-square&logo=c%2B%2B&logoColor=A1A1AA" />
 </p>
 
----
-
-<h3 align="left">▸ Produtos e trabalho para cliente</h3>
-
 <p align="left">
-  <a href="https://clyvo.kryden.com.br/" target="_blank"><strong>Clyvo</strong></a> — CRM enxuto para autônomos e micro-empresas, em produção. Blazor, PostgreSQL e cobrança por Mercado Pago.
-</p>
-
-<p align="left">
-  <a href="https://www.pdfclick.net/" target="_blank"><strong>PDFClick</strong></a> — compressão de PDF pelo menu do Explorer, sem nada sair do computador. Handler nativo em C++ e motor em .NET.
-</p>
-
-<p align="left">
-  <strong>Elleve</strong> — sistema interno de controle de aluguel, feito para cliente. Blazor, PostgreSQL e contrato gerado em docx.
-</p>
-
-<p align="left">
-  Os projetos open source estão fixados aqui embaixo. Tudo que eu construí está em <a href="https://kryden.com.br/" target="_blank"><strong>kryden.com.br</strong></a>.
+  <strong>Disponível para projetos.</strong> Meus repositórios estão fixados aqui embaixo, e o resto em <a href="https://kryden.com.br/" target="_blank"><strong>kryden.com.br</strong></a>.
 </p>
 
 ---
