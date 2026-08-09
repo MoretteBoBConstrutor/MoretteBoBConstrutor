@@ -57,7 +57,7 @@
   <a href="https://www.youtube.com/@morettefilho" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-0A0A0A?style=for-the-badge&logo=youtube&logoColor=FACC15" />
   </a>
-  <a href="https://kryden.com.br/" target="_blank">
+  <a href="https://c-morette.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=FACC15" />
   </a>
 </div>
