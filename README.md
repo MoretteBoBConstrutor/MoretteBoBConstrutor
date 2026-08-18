@@ -37,7 +37,7 @@
 </p>
 
 <p align="left">
-  <strong>Disponível para projetos.</strong> Meus repositórios estão fixados aqui embaixo, e o resto em <a href="https://kryden.com.br/" target="_blank"><strong>kryden.com.br</strong></a>.
+  <strong>Disponível para projetos.</strong> Meus repositórios estão fixados aqui embaixo, e o resto em <a href="https://c-morette.dev/" target="_blank">c-morette</strong></a>.
 </p>
 
 ---
